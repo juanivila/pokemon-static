@@ -1,0 +1,6 @@
+GET https://pokeapi.co/api/v2/pokemon/
+Accept: application/json
+
+###
+https://pokeapi.co/api/v2/pokemon/ditto
+# Front PNG https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png
